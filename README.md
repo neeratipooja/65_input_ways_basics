@@ -1,0 +1,1 @@
+# 65_input_ways_basics
